@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="148" height="44" viewBox="0 0 148 44" role="img" aria-labelledby="title desc">
+<title id="title">YouTube</title>
+<desc id="desc">Visit SoufianDevSec on YouTube.</desc>
+<rect x=".5" y=".5" width="147" height="43" rx="7" fill="#192127" stroke="#4a565e"/>
+<g fill="none" stroke="#b8c9d6" stroke-width="1.55" stroke-linecap="round" stroke-linejoin="round"><rect x="12" y="15" width="20" height="14" rx="3"/><path d="M20 19l6 3-6 3z"/></g>
+<text x="41" y="27" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="600" fill="#f4f1e9">YouTube</text>
+<path d="M126 25l7-7m-7 0h7v7" fill="none" stroke="#98b8d4" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
